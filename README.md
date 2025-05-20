@@ -3,6 +3,6 @@ Welcome to my portfolio! This repository contains a variety of projects I've wor
 
 ## 🚀 Featured Projects
 
-- [🛳️ Titanic Classification Project](https://github.com/yolist/titanic-classification-project)  
+1) [🛳️ Titanic Classification Project](https://github.com/yolist/titanic-classification-project)  
   Exploratory Data Analysis and predictive classification model based on passenger survival from the Titanic dataset.  
   Final insights include survival rates and feature relevance.
