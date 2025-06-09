@@ -11,6 +11,6 @@ Welcome to my portfolio! This repository contains a variety of projects I've wor
    Regression analysis project using real-world salary data from countries around the world between 2000-2023.  
    Explores multiple machine learning models, highlighting CatBoost’s superior performance with categorical data features.  
 
-3) [🛍️ Customer Segmentation Clustering](https://github.com/yolist/sales-final)  
+3) [🛍️ Customer Segmentation Clustering](https://github.com/yolist/sales-customer-clustering)  
    Customer segmentation based on unsupervised learning models using sales data.  
-   Includes KMeans, Agglomerative Clustering, and DBSCAN methods, with evaluation via Silhouette Score and Elbow Method for optimal clusters.
+   Includes KMeans, DBSCAN and Agglomerative Clustering methods, with evaluation via Silhouette Score and Elbow Method for optimal clusters.
